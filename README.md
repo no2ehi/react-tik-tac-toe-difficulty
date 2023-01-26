@@ -1,5 +1,6 @@
 This is my personal solution to the further practice of ([Beta React's tic-tac-toe tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe))
 
+Live Demo: [demo](https://no2ehi.github.io/react-tik-tac-toe-difficulty/){:target="_blank"}
 ![react-tik-toc-toe-game](https://user-images.githubusercontent.com/35344951/213921987-097275ec-431d-4c6f-927a-2ba03cb9a908.gif)
 
 This game is made using Reack Hooks.
