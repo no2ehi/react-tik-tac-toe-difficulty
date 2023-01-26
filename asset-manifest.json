@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tik-tac-toe-difficulty/static/css/main.70c4cb85.css",
+    "main.js": "/react-tik-tac-toe-difficulty/static/js/main.6695c7d2.js",
+    "static/js/787.4d30fc92.chunk.js": "/react-tik-tac-toe-difficulty/static/js/787.4d30fc92.chunk.js",
+    "index.html": "/react-tik-tac-toe-difficulty/index.html",
+    "main.70c4cb85.css.map": "/react-tik-tac-toe-difficulty/static/css/main.70c4cb85.css.map",
+    "main.6695c7d2.js.map": "/react-tik-tac-toe-difficulty/static/js/main.6695c7d2.js.map",
+    "787.4d30fc92.chunk.js.map": "/react-tik-tac-toe-difficulty/static/js/787.4d30fc92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c4cb85.css",
+    "static/js/main.6695c7d2.js"
+  ]
+}
